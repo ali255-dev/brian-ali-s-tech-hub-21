@@ -33,6 +33,9 @@ const HeroSection = () => {
             <a href="#projects" className="inline-flex items-center gap-2 border border-primary text-primary px-6 py-3 rounded-md font-semibold hover:bg-primary/10 transition-colors">
               View Work
             </a>
+            <a href="/resume-brian-ali.pdf" download className="inline-flex items-center gap-2 border border-accent text-accent px-6 py-3 rounded-md font-semibold hover:bg-accent/10 transition-colors">
+              📄 Download CV
+            </a>
           </div>
         </div>
 
