@@ -1,5 +1,5 @@
 import heroBg from "@/assets/hero-bg.jpg";
-import brianPortrait from "@/assets/brian-portrait.jpg";
+import brianPortrait from "@/assets/brian-portrait.jpeg";
 
 const HeroSection = () => {
   return (
