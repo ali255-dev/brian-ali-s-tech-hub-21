@@ -15,8 +15,8 @@ const ContactSection = () => {
 
         <div className="grid sm:grid-cols-3 gap-6">
           {[
-            { icon: Mail, label: "Email", value: "brian.ali@email.com" },
-            { icon: Phone, label: "Phone", value: "+254 700 000 000" },
+            { icon: Mail, label: "Email", value: "alibrian255@gmail.com" },
+            { icon: Phone, label: "Phone", value: "+254 799 393 479" },
             { icon: MapPin, label: "Location", value: "Nairobi, Kenya" },
           ].map((item) => (
             <div key={item.label} className="bg-card border border-border rounded-lg p-6 card-hover">
