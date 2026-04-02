@@ -13,9 +13,7 @@ const HeroSection = () => {
       <div className="container relative z-10 flex flex-col lg:flex-row items-center gap-12 py-20">
         {/* Text */}
         <div className="flex-1 space-y-6">
-          <p className="font-mono text-primary text-sm tracking-widest uppercase">
-            &gt; Hello, World_
-          </p>
+        
           <h1 className="text-5xl md:text-7xl font-bold tracking-tight">
             <span className="text-foreground">Brian</span>{" "}
             <span className="text-primary text-glow">Ali</span>
