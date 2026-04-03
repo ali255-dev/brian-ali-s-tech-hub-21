@@ -12,7 +12,7 @@ const education = [
     title: "Cisco Certified Network Associate (CCNA)",
     description: "Industry-standard certification covering routing, switching, and network security fundamentals.",
     school: "Cisco Networking Academy",
-    status: "completed" as const,
+    status: "ongoing" as const,
   },
   
 ];
