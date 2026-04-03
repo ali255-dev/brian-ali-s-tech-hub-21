@@ -51,7 +51,7 @@ const EducationSection = () => (
                     : "bg-muted text-muted-foreground border-border shrink-0"
                 }
               >
-                {edu.status === "ongoing" ? "🟢 Ongoing" : "✅ Completed"}
+                {edu.status === "ongoing" ? "🟢 Ongoing" : "Completed"}
               </Badge>
             </div>
           </div>
