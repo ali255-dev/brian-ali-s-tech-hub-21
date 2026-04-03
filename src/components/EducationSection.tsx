@@ -3,9 +3,9 @@ import { Badge } from "@/components/ui/badge";
 
 const education = [
   {
-    title: "Diploma in Information Communication Technology",
+    title: "Diploma in Computer Science",
     description: "Comprehensive study of networking, programming, and computer systems with hands-on lab experience.",
-    school: "Kenya Institute of Technology",
+    school: "TAITA TAVETA NATIONAL POLYTECHNIC",
     status: "completed" as const,
   },
   {
@@ -14,12 +14,7 @@ const education = [
     school: "Cisco Networking Academy",
     status: "completed" as const,
   },
-  {
-    title: "Bachelor of Science in Computer Science",
-    description: "Advanced studies in software engineering, data structures, and distributed systems.",
-    school: "University of Nairobi",
-    status: "ongoing" as const,
-  },
+  
 ];
 
 const EducationSection = () => (
